@@ -89,7 +89,7 @@ After build completes, go to:
 ```
 dist/app.exe
 ```
-Also available in this repo pre built .EXE file download and Use it .
+Also available in this repo pre built .EXE file download and Use it . <a href="https://github.com/the-AY/Clippy-Pie-Lite-The-Clipboard-Application/tree/main/clipboard-app/Python_based_Clippy/dist" >Link 🔗</a>
 ---
 
 ## 🏗️ Building the Application Locally
